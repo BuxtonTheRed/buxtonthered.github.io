@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+### What?
 
-You can use the [editor on GitHub](https://github.com/BuxtonTheRed/buxtonthered.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site is the primary release location for some new documents from the "Facebookleaks" / "Six4ThreeFiles" leak-set.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**If you arrived here from a published article as a reader and just want to read the supporting documents mentioned**, just head to the bottom of this page and click the link.
 
-### Markdown
+As more documents are released to the public to support the journalistic work of the publications involved, they may be added either to this site or to the matching [Github repository](https://github.com/BuxtonTheRed/btrmisc).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Released Documents
 
-```markdown
-Syntax highlighted code block
+Rather than sending document releases only to specific journalists, the decision has been made to provide releases in a more public-and-open manner with an honour-principle agreement on embargo and attribution for publication of any stories which make use of these documents.
 
-# Header 1
-## Header 2
-### Header 3
+If you are a journalist or reporter (including academics, citizen-journalists, bloggers, vloggers/youtubers/podcasters, etc.), you may use the documents provided on this site subject to the *Polite Agreement* below.
 
-- Bulleted
-- List
+(If you are here as a reader *only*, not intending to publish your own reporting, the *Polite Agreement* doesn't apply to you.)
 
-1. Numbered
-2. List
+## The Polite Agreement
 
-**Bold** and _Italic_ and `Code` text
+The documents on this site are offered subject to the following agreement:
 
-[Link](url) and ![Image](src)
-```
+1. Each set of documents has:
+ - an embargo date
+ - a form of required attribution (possibly including hyperlinks)
+2. If you wish to publish any story / reporting about something in a document provided on this site, you agree to not publish **your** article/video/etc. prior to the embargo date, and to include the required attribution (including the hyperlinks, if present), given for that set of documents
+3. If your story spans different document sets, you agree to abide by the **last** embargo date and to include all of the attributions across each document-set you are drawing from
+4. If any other restrictions or requirements are given for a document or set of documents on this site, you also agree to abide by them.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Your Agreement
 
-### Jekyll Themes
+I am intending to report on the contents of the offered documents and I accept the Polite Agreement above, or I am Not A Journalist and I am just here to read the documents.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BuxtonTheRed/buxtonthered.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(line above will become a link in due course... - Matt)
